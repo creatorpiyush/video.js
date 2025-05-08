@@ -82,7 +82,7 @@
     "url": "https://github.com/videojs/video.js.git"
   },
   "dependencies": {
-    "@babel/runtime": "^7.9.2",
+    "@babel/runtime": "^7.26.10",
     "@videojs/http-streaming": "2.7.1",
     "@videojs/xhr": "2.5.1",
     "global": "^4.4.0",
